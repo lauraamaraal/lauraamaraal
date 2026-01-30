@@ -1,4 +1,4 @@
-# Hi! I'm Laura Amaral
+## Hi! I'm Laura Amaral
 
 I am an IT Technician and a Software Engineering student.
 
