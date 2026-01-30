@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm Laura Amaral
 
-<!--
-**lauraamaraal/lauraamaraal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Technician and a Software Engineering student.
 
-Here are some ideas to get you started:
+This repository is part of my learning process. It contains projects and exercises to practice programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Learn more about programming  
+- Improve my coding skills  
+
+## Basic Skills
+- Programming logic  
+- Computer basics  
+- HTML, CSS, JavaScript  
+
+## Currently Learning
+- Software Engineering  
+- Git and GitHub  
+- Practical projects  
+
+## Note
+These projects are always improving as I learn more.
